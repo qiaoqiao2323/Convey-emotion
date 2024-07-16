@@ -1,6 +1,6 @@
 Before the data collection, please check the meaning of the Intentions and actions, do you agree the meanings? 
 
-##Gesture:
+## Gesture:
 
 Hold:  Grasp, carry, or support with one's hands.
 
@@ -17,7 +17,7 @@ Tap:  To hit something gently, and often repeatedly, especially making short, sh
 
 
 
-##Intention:
+## Intention:
 
 Happy:  Feeling or showing pleasure or contentment.    
 
