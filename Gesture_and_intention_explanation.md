@@ -10,7 +10,7 @@ Tickle:  Lightly touch or prod (a person or a part of the body)
 
 Poke:  Jab or prod (someone or something) with one's finger or a sharp object.
 
-Pat:  Touch quickly with the flat of the hand.
+Pat:  Touch quickly and gently with the flat of the hand.
 
 Tap:  To hit something gently, and often repeatedly, especially making short, sharp noises
 
