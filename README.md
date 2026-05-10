@@ -1,7 +1,5 @@
 # Convey-emotion
 
-This repository contains the dataset and code associated with the paper "Conveying Emotions to Robots through Touch and Sound" by Qiaoqiao Ren, Remko Proesmans, Frederick Bossuyt, Jan Vanfleteren2, Francis Wyffels, and Tony Belpaeme.
-
 ## Introduction
 Convey-emotion is a comprehensive project designed to analyze and interpret human emotions through various gestures and intentions. This repository contains the necessary files and scripts to perform statistical analyses and machine learning tasks to understand and convey emotions toward the pepper robot.
 
