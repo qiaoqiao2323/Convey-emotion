@@ -1,7 +1,10 @@
 # Convey-emotion
 
 ## Introduction
-Convey-emotion is a comprehensive project designed to analyze and interpret human emotions through various gestures and intentions. This repository contains the necessary files and scripts to perform statistical analyses and machine learning tasks to understand and convey emotions toward the pepper robot.
+
+**Convey-emotion is a research project for analysing affective touch, gestures, and intentions during human–robot interaction with the Pepper robot. The repository includes scripts for feature extraction, statistical analysis, reliability analysis, and machine-learning-based classification.**
+
+**The project aims to support the analysis of how human emotions and social touch gestures can be expressed, measured, and classified through tactile interaction data.**
 
 ## Repository Structure
 
@@ -12,6 +15,12 @@ Convey-emotion is a comprehensive project designed to analyze and interpret huma
 - **README.md**: This file.
 - **features.py**: A Python script for feature extraction from the dataset.
 - **machine_learning.R**: An R script for implementing machine learning models to predict and classify emotions based on the dataset.
+- **Emotion_classification**: **A folder containing files and scripts related to emotion classification.**
+- **Gesture_classification**: **A folder containing files and scripts related to gesture classification.**
+
+## Data Availability
+
+**The dataset is not publicly uploaded to this repository due to privacy and ethical requirements related to participant data. The data may be shared upon reasonable request by contacting the authors, subject to applicable institutional and ethical requirements.**
 
 ## Getting Started
 
